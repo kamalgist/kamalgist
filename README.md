@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kamalshbib
+- 👋 Hi, I’m @kamal
 - 👀 I’m interested in web3
 - 🌱 I’m currently learning the basics of blockchain 
 - 💞️ I’m looking to collaborate on 
